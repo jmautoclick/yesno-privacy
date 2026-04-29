@@ -61,4 +61,4 @@ If this policy changes, the updated version will be available at this same URL. 
 
 ## Contact
 
-Developer: Juan Manuel Vives — juanmavives@gmail.com
+Developer: Juan Manuel Vives — jm@jmautoclick.com
