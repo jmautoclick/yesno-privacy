@@ -59,4 +59,4 @@ Si esta política cambia, la versión actualizada estará disponible en esta mis
 
 ## Contacto
 
-Desarrollador: Juan Manuel Vives — juanmavives@gmail.com
+Desarrollador: Juan Manuel Vives — JM@JMAutoClcick.Com
