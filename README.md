@@ -6,7 +6,7 @@ YESNO is a photo cleaner app for Android that helps you declutter your gallery b
 - [English](privacy-en.md)
 - [Español](privacy-es.md)
 
-🐛 **Found an issue?** Email juanmavives@gmail.com
+🐛 **Found an issue?** Email JM@JMAutoClick.Com
 
 📱 **Get the app:** [YESNO on Google Play](https://play.google.com/store/apps/details?id=com.cuamers.YESNO)
 
